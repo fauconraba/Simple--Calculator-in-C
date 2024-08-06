@@ -1,0 +1,2 @@
+# Simple -Calculator-in-C
+ This project is a simple calculator application written in C. It performs basic arithmetic operations including addition, subtraction, multiplication, and division. The calculator is designed to run in a console environment, providing a straightforward user interface for performing calculations.  Features Addition: Adds two integers. Subtraction: Subtracts the second integer from the first. Multiplication: Multiplies two integers. Division: Divides the first integer by the second, with error handling for division by zero.
